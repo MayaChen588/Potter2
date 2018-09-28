@@ -76,5 +76,12 @@ namespace PotterShoppingCart.BLL
 
             return totalAmt;
         }
+
+
+        public int Funb(int x)
+        {
+            return x;
+        }
+
     }
 }
